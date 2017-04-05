@@ -1582,3 +1582,35 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u104_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:24px;
+  height:776px;
+  background:inherit;
+  background-color:rgba(255, 0, 0, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u104 {
+  position:absolute;
+  left:6px;
+  top:0px;
+  width:24px;
+  height:776px;
+}
+#u105 {
+  position:absolute;
+  left:2px;
+  top:380px;
+  width:20px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
